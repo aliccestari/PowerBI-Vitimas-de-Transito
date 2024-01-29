@@ -6,7 +6,7 @@ trânsito.</p>
 
 <h3>Requisitos:</h3>
 
-O dashboard eve conter as seguintes visualizações:
+O dashboard deve conter as seguintes visualizações:
 - Tipo de Acidente (barras horizontais)
 - Vítimas por Sexo (gráfico de pizza)
 - Vítimas por Turno do Dia (gráfico de rosca)
